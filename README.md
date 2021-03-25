@@ -7,3 +7,4 @@
 ![Média por Escolaridade do Pai](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_7_media_por_escolaridade.png)
 ![Candidatos por Raça](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_8_candidatos_por_ra%C3%A7a.png)
 ![Média de Notas por Raça](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_9_media_por_ra%C3%A7a.png)
+:computer:[ Acesse o Notebook](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/projeto_dados_enem_2019_RN.ipynb)
