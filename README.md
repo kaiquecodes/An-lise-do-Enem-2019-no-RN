@@ -1,4 +1,4 @@
-:computer:[ Acesse o Notebook](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/projeto_dados_enem_2019_RN.ipynb)
+:computer:[ Acesse o Notebook](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Notebook/projeto_dados_enem_2019_RN.ipynb)
 ![Notas por Cidade](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_1_notas_por_cidade.png)
 ![Média de Notas por Renda](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_2_Notas_por_renda.png)
 ![Quantidade de Alunos por Tipo de Escola](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_3_Alunos_por_escola.png)
