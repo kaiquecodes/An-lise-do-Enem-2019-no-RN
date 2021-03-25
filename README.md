@@ -8,5 +8,6 @@
 ![Média por Escolaridade do Pai](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_7_media_por_escolaridade.png)
 ![Candidatos por Raça](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_8_candidatos_por_ra%C3%A7a.png)
 ![Média de Notas por Raça](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Gr%C3%A1ficos_ci%C3%AAncia_de_dados/Graphic_9_media_por_ra%C3%A7a.png)
+# Veja a apresentação do Projeto.
 [![Veja a apresentação](https://github.com/kaiquecodes/Analise-do-Enem-2019-no-RN/blob/main/Notebook/V%C3%ADdeo.png)](https://www.youtube.com/watch?v=TqWQFHRUzb8)
 
